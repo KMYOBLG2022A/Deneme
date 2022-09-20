@@ -1,0 +1,2 @@
+# Deneme
+Github ilk denemesi
